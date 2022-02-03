@@ -1,0 +1,27 @@
+.External{
+    color: black;
+    text-align: center;
+}
+
+.Submit{
+    background-color:blueviolet;
+    
+}
+
+.Reset{
+    background-color: chartreuse;
+}
+
+.Button{
+    text-align: center;
+    margin-bottom:3px ;
+}
+
+.header{
+    background-color: darkorange;
+}
+
+body{
+    margin: 0px;
+    padding: 0pxs;
+}
